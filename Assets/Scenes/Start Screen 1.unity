@@ -1464,8 +1464,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11500000, guid: afa1521eeffdd754eb0094854809f710, type: 3}
-        m_MethodName: 
+      - m_Target: {fileID: 2059314892}
+        m_MethodName: SceneSwitch
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

@@ -7,6 +7,6 @@ public class GotoAR : MonoBehaviour
 {
     public void SceneSwitch()
     {
-        SceneManager.LoadScene("AR");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
     }
 }
